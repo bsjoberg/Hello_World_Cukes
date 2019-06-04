@@ -9,5 +9,8 @@
         <module name="Hello World" />
       </profile>
     </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="elephant-carpaccio-attempt3" target="1.8" />
+    </bytecodeTargetLevel>
   </component>
 </project>
